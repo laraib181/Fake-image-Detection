@@ -52,4 +52,51 @@ pip install -r requirements.txt
 
 streamlit run "Fake-image app.py"
 
+▶️ Run Locally
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/fake-image-detection.git
+cd fake-image-detection
+
+pip install -r requirements.txt
+
+streamlit run "Fake-image app.py"
+🌐 Deploy on Streamlit
+Make sure your repo contains:
+
+requirements.txt
+
+runtime.txt (with python-3.10)
+
+Fake-image app.py
+
+Deploy it on Streamlit Cloud
+
+📸 Sample Output
+Screenshots:
+
+The Streamlit UI
+
+ELA images
+
+Confusion Matrix / Accuracy Plot
+
+📚 References
+Error Level Analysis (Forensics)
+
+TensorFlow & Keras documentation
+
+🤝 Contributing
+Pull requests are welcome! Feel free to open issues for improvements.
+
+🛡 License
+MIT License. See LICENSE for details.
+
+vbnet
+Copy
+Edit
+
+Let me know if you'd like help copying this into
+
 
