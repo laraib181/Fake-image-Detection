@@ -82,7 +82,6 @@ The Streamlit UI
 ELA images
 
 Confusion Matrix / Accuracy Plot
-
 ##📚 References
 Error Level Analysis (Forensics)
 
